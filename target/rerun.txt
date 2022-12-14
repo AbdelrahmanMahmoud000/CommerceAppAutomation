@@ -1,0 +1,2 @@
+file:src/main/resources/features/F03_currencies.feature:3
+file:src/main/resources/features/F01_Register.feature:3
